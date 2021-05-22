@@ -20,5 +20,4 @@ window.minesweeper.scheme({
 });
 ```
 
-###
- <3 Fishes
+### <3 fishes
